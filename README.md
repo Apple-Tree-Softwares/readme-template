@@ -30,6 +30,4 @@ Ignore the first step on 'Mobile setup' instructions given below if you already 
 2. Scan the QR code shown on the terminal.
 3. Once the QR code is successfully scanned, it will take few seconds to load and render the app.
 
-#### Note
-I'm using a library complete uniform UI for ReactJS and React Native, is being developed but there are enough components to help with the app/web page. 
-[React Bulk](https://github.com/caioedut/react-bulk) 
+#### Note 
